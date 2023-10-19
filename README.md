@@ -3,3 +3,5 @@ Versões usadas na Dissertação de Mestrado: Deep Learning para autoria automat
 
 A dissertação utilizou seis diferentes versões: três delas utilizam redes neurais GRU e três utilizam transformers.
 As versões foram nomeadas como step_analyzer_PAT2Math, iniciando pelo número da versão. Os códigos estão no formato .ipynb e foram executados no Google Colaboratory.
+
+O log com os dados retirados do Sistema Tutor Inteligente estão disponíveis através do arquivo log_with_current_step_pat2math.csv.
